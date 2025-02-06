@@ -7,7 +7,7 @@
         >
           <div class="flex-shrink-0">
             <img
-              src="../assets/images/group.png"
+              src="../assets/images/Group.png"
               alt=""
               class="w-12 md:w-auto"
             />
