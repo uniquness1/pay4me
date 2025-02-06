@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <!-- <Hero /> -->
+    <Hero />
     <Funfact />
     <numbers />
     <whyPay />

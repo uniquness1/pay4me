@@ -176,7 +176,7 @@
                   name=""
                   id=""
                   placeholder="Enter your Email address"
-                  class="w-full md:w-auto"
+                  class="w-full md:w-auto outline-none"
                 />
                 <Mail class="w-5 h-5 text-black" />
               </div>
