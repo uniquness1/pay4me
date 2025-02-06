@@ -64,7 +64,7 @@
           awesome native apps
         </p>
         <div
-          class="max-w-max mx-auto mt-4 bg-white p-3 pl-10 flex gap-14 items-center justify-between"
+          class="max-w-max mx-auto mt-4 bg-white p-3 pl-4 md:pl-10 flex gap-14 items-center justify-between"
         >
           <div>
             <h2 class="text-[#000000] text-xl font-normal">View on mobile.</h2>
