@@ -89,7 +89,7 @@
         />
       </div>
 
-      <footer class="pb-[104px] pt-[150px] w-full px-4 bg-white">
+      <footer class="pb-[104px] pt-[150px] w-full px-4">
         <div
           class="max-w-7xl mx-auto w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-[1fr_1fr_1fr_1fr_1.5fr] gap-8 md:gap-16 pt-[120px] md:pt-[160px]"
         >
