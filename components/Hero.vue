@@ -1,6 +1,6 @@
 <template>
   <section
-    class="max-w-7xl mx-auto px-4 w-full flex flex-col lg:flex-row items-center py-12 lg:py-0"
+    class="max-w-7xl mx-auto px-4 w-full flex flex-col lg:flex-row items-center py-12"
   >
     <div class="w-full lg:w-1/2 text-center lg:text-left mb-8 lg:mb-0">
       <h1
@@ -26,11 +26,16 @@
         </span>
       </button>
     </div>
-    <div class="w-full lg:w-1/2 flex justify-center lg:justify-end">
+    <div class="w-full lg:w-1/2 flex justify-center lg:justify-end relative">
+      <img
+        src="../assets/images/small.png"
+        alt=""
+        class="hidden md:block h-[233px] w-[233px] absolute bottom-0 left-[-115px]"
+      />
       <img
         src="../assets/images/screen.png"
         alt="Screen"
-        class="h-auto max-h-[550px] w-auto max-w-full object-contain"
+        class="h-auto max-h-[650px] w-auto max-w-full object-contain"
       />
     </div>
   </section>
