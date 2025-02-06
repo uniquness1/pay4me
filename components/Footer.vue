@@ -135,7 +135,7 @@
               <li class="text-sm font-normal text-black">Contact us</li>
             </ul>
             <p
-              class="hidden md:block mt-8 md:mt-[215px] md:ml-[-84px] text-lg font-light pb-2 border-b"
+              class="hidden md:block mt-8 md:mt-[165px] md:ml-[-84px] text-lg font-light pb-2 border-b"
             >
               (123) 456-7890
             </p>
