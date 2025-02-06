@@ -6,12 +6,14 @@
       class="text-2xl sm:text-3xl lg:text-4xl font-bold text-center mb-8 lg:mb-[72.4px]"
     >
       What Our Happy <br />
-      <span class="relative inline-block">
-        Users Say
-        <span
-          class="absolute inset-x-0 bottom-0 h-2 bg-yellow-300 -z-10"
-        ></span>
-      </span>
+      <span class="relative pl-3 py-1">
+        Users
+        <img
+          src="../assets/images/v.png"
+          alt=""
+          class="absolute left-[5px] -top-[2px] max-w-[350px] w-full max-h-[95px] h-full"
+        /> </span
+      >Say
     </h2>
 
     <div class="relative w-full max-w-5xl overflow-hidden">

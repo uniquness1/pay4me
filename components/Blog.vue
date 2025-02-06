@@ -7,10 +7,18 @@
     />
     <div class="max-w-6xl mx-auto px-4">
       <div class="text-center mb-12">
-        <h2 class="text-4xl font-bold mb-2">Latest Blog</h2>
-        <div class="relative inline-block">
-          <span class="text-4xl font-bold">and Resources</span>
-        </div>
+        <h2 class="text-4xl font-bold">Latest Blog</h2>
+        <span class="text-4xl font-bold">
+          and
+          <span class="relative pr-4 py-2">
+            Resources
+            <img
+              src="../assets/images/v.png"
+              alt="jiii"
+              class="absolute left-[-10px] -top-[2px] max-w-[350px] w-full max-h-[95px] h-full"
+            />
+          </span>
+        </span>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-[51px]">
         <div

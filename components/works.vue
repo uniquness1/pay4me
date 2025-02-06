@@ -3,7 +3,15 @@
     <h1
       class="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 text-gray-800 text-center"
     >
-      How it works?
+      How it
+      <span class="relative py-2 pr-2"
+        >works?
+        <img
+          src="../assets/images/v.png"
+          alt=""
+          class="absolute -left-0.5 -top-[2px] max-w-[350px] w-full max-h-[95px] h-full -z-1"
+        />
+      </span>
     </h1>
 
     <div class="w-full flex flex-col sm:flex-row gap-8 sm:gap-4 lg:gap-8">

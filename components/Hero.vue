@@ -6,7 +6,16 @@
       <h1
         class="text-[#18063C] text-3xl lg:text-5xl leading-tight lg:leading-[71px] max-w-lg w-full font-semibold track-[1.8px]"
       >
-        Cross-border payments for International students
+        Cross-border
+        <span class="relative py-2 pr-2"
+          >payments
+          <img
+            src="../assets/images/v.png"
+            alt=""
+            class="absolute -left-0.5 -top-[2px] max-w-[350px] w-full max-h-[95px] h-full -z-1"
+          />
+        </span>
+        for International students
       </h1>
       <p
         class="text-base lg:text-lg font-normal text-black max-w-md w-full py-6"
