@@ -49,7 +49,7 @@
         >
           <div class="flex-shrink-0">
             <img
-              src="../assets/images/vector.png"
+              src="../assets/images/Vector.png"
               alt=""
               class="w-12 md:w-auto"
             />
