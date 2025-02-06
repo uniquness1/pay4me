@@ -109,7 +109,7 @@
           </div>
 
           <div class="text-center md:text-left">
-            <ul class="space-y-5">
+            <ul class="flex flex-col gap-5">
               <li class="text-base font-medium md:font-normal text-black mb-6">
                 Company
               </li>
@@ -126,7 +126,7 @@
             >
               (123) 456-7890
             </p>
-            <ul class="space-y-5">
+            <ul class="flex flex-col gap-5">
               <li class="text-base font-medium md:font-normal text-black mb-6">
                 Support
               </li>
@@ -142,7 +142,7 @@
           </div>
 
           <div class="text-center md:text-left">
-            <ul class="space-y-5">
+            <ul class="flex flex-col gap-5">
               <li class="text-base font-medium md:font-normal text-black mb-6">
                 Legals
               </li>
@@ -156,7 +156,7 @@
             <h2 class="text-base font-medium md:font-normal text-black mb-6">
               Head Office
             </h2>
-            <p class="text-sm font-normal text-black">
+            <p class="text-sm font-normal text-black my-5">
               USA - 500 S 8th St, Boise, ID 83702
             </p>
             <p class="text-sm font-normal text-black">
