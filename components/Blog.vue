@@ -38,7 +38,7 @@
               <div class="flex items-center">
                 <div class="w-8 h-8 rounded-full mr-2">
                   <img
-                    src="../assets/images/image.png"
+                    src="../assets/images/Image.png"
                     alt=""
                     class="w-full h-full object-cover"
                   />
