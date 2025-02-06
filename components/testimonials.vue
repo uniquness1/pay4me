@@ -144,7 +144,7 @@ export default {
         },
       ],
       interval: null,
-      windowWidth: window.innerWidth,
+      windowWidth: 768,
     };
   },
   computed: {
@@ -175,12 +175,17 @@ export default {
     },
   },
   mounted() {
-    window.addEventListener("resize", this.handleResize);
-    this.startAutoplay();
+    if (process.client) {
+      this.windowWidth = window.innerWidth;
+      window.addEventListener("resize", this.handleResize);
+      this.startAutoplay();
+    }
   },
   beforeDestroy() {
-    window.removeEventListener("resize", this.handleResize);
-    clearInterval(this.interval);
+    if (process.client) {
+      window.removeEventListener("resize", this.handleResize);
+      clearInterval(this.interval);
+    }
   },
   watch: {
     isMobile() {
