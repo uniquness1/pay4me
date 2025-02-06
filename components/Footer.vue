@@ -122,7 +122,7 @@
 
           <div class="text-center md:text-left">
             <p
-              class="md:hidden my-8 md:mt-[180px] text-lg font-light pb-2 border-b"
+              class="md:hidden my-8 md:mt-[165px] text-lg font-light pb-2 border-b"
             >
               (123) 456-7890
             </p>
